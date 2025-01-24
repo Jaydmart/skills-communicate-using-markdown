@@ -3,3 +3,5 @@
 ### This is my third header
 
 I just added some headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
