@@ -5,3 +5,11 @@
 I just added some headers
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!;
+```
+
+``` html
+<p>Hello, world!</p>
+```
