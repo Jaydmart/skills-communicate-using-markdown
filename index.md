@@ -13,3 +13,8 @@ var myVar = "Hello, world!";
 ``` html
 <p>Hello, world!</p>
 ```
+
+- [x] Add headers
+- [x] Add image
+- [x] Add markdown code
+- [ ] Add task list
